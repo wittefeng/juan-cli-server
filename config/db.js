@@ -10,7 +10,7 @@
 
 /** MONGODB **/
 
-const mongodbUrl = 'mongodb://juan-cli.fungwey.cn:27017/juan-cli'
+const mongodbUrl = 'mongodb://juan-cli-server.fungwey.cn:27017/juan-cli'
 const mongodbName = 'juan-cli'
 
 module.exports = {
